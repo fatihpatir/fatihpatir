@@ -14,7 +14,7 @@ Antalya **Korkuteli Nene Hatun Mesleki ve Teknik Anadolu Lisesi**'nde Bilişim T
 ---
 
 ### 📂 Öne Çıkan Projelerim
-- [**Sosyal Medya Çalışma Portalı**](https://fatihpatir.github.io/web/) - 81 soruluk interaktif çalışma kartları ve kapsamlı test sistemi.
+- [**Sosyal Medya Çalışma Portalı**](https://fatihpatir.github.io/sosyalmedya/) - 81 soruluk interaktif çalışma kartları ve kapsamlı test sistemi.
 - [**Kişisel Web Sayfam**](https://fatihpatir.github.io/web/) - Eğitim dökümanları ve projelerimin toplandığı ana merkez.
 
 ---
